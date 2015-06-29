@@ -82,5 +82,4 @@ public class MainAdapter extends FragmentPagerAdapter
     public int getCount() {
         return tabs.size();
     }
-
 }

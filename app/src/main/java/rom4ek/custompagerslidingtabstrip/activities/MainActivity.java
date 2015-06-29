@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
         pager.setOffscreenPageLimit(3);
         getSupportActionBar().hide();
 
-        notifyTabStripChanged(2, 5);
+//        notifyTabStripChanged(2, 5);
     }
 
 
